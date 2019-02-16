@@ -1,0 +1,8 @@
+cd ingresar la direccion de la carpeta de copia de git
+git clone https://github.com/royscript/InspeccionMunicipal.git
+git config user.name "royscript"
+git config user.email "roystandenb@gmail.com"
+git add -A
+git status
+git commit -m "Initial Commit"
+git push
